@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Team Pic](team_pic.jpg)
+![Team Pic](https://github.com/Dynatrace-India/.github/blob/main/profile/team_pic.jpg)
 
 <!--
 
